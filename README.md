@@ -1,7 +1,7 @@
 # Dashboards
 
 ## Table of Contents 
-- [Chips Purchase and Transaction Analysis](#chips-purchase-&-Transaction-analysis)
+- [Chips Purchase and Transaction Dashboard](#chips-purchase--transaction-dashboard)
 
 # Chips Purchase & Transaction Dashboard
 
