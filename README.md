@@ -2,6 +2,7 @@
 
 ## Table of Contents 
 - [Chips Purchase and Transaction Dashboard](#chips-purchase--transaction-dashboard)
+- [COVID-19 Dashboard - India](#covid-19-dashboard---india)
 
 ## Chips Purchase & Transaction Dashboard
 
